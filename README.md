@@ -1,6 +1,8 @@
 # Final_Assignment_Programming1
 This repository is created for the Final Assignment of Programming1. The directory contains a data analyses about the relationship of COVID19 cases and Obese/Overweight
 
+## Before running the FA_prog1.ipynb file unzip the files_for_FA.zip!
+
 
 #### Dependencies
 - Python 2.7.18
