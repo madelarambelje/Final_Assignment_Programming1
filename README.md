@@ -65,6 +65,6 @@ The eye could easily observe this if you have these two maps next to each other.
 
 Some correlation can be noticed from the graphs, e.g. the municipalities Oldambt and Pekela have a high percentage of obesity and also corona cases, hospitalizations and deaths. Municipality of Groningen has a lower percentage of obesity/overweight and here are lower death rates, corona cases, and hospitalizations.
 
-NOTE: The municipalities of Delfzijl, Loppersum and Appingedam are being merged as Eemsdelta since 2021. Hence data is missing in the data and therefore in the figures.
+NOTE: The municipalities of Delfzijl, Loppersum and Appingedam are being merged as Eemsdelta since 2021. Hence data is missing in the figures.
 
 
